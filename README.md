@@ -1,6 +1,6 @@
 # vue-todo
 
-> A Vue.js project
+> A Vue.js project   
 >VueCamp 및 Do it Vue를 통해 제작된 TodoApp
 
 Skill
