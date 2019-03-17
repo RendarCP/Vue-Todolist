@@ -7,6 +7,8 @@ Skill
 -----
 1. Vue.js
 2. Node.js
+3. NPM
+4. Webpack
 
 ScreenShot
 ---------
